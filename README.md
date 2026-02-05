@@ -24,7 +24,6 @@ This portfolio showcases my skills, projects, and contact information with smoot
 ## 🛠️ Technologies Used
 - **HTML5**
 - **CSS3** (Flexbox, Grid, Animations)
-- **JavaScript** (Basic interactions)
 - **GitHub Pages** (Deployment)
 
 ---
