@@ -6,7 +6,7 @@ This portfolio showcases my skills, projects, and contact information with smoot
 ---
 
 ## 🚀 Live Demo
-🔗 https://your-username.github.io/your-repository-name/
+🔗 (https://pramilasatish.github.io/Portfolio/)
 
 ---
 
